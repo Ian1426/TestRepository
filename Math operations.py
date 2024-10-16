@@ -78,6 +78,3 @@ print(f'{amount}')
 
 INTEREST_RATE = 0.014
 print(f'{INTEREST_RATE}')
-
-import turtle
-turtle.forward(100)
